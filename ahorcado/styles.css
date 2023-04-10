@@ -1,0 +1,15 @@
+.imagenes{
+
+    width: 350px;
+    height: auto;
+}
+.body{
+
+    background-color:rgb(89, 89, 108);
+    color: aliceblue;
+    font-family: 'BROWNIEregular', sans-serif;                                  
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
